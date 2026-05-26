@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerpender",
+        "uuid": 5122468,
+        "checksum": "hjvsgs"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
